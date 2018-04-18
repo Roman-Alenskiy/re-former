@@ -10,3 +10,12 @@
 .field_with_errors input {
     border: 1px solid red;
 }
+
+.errors {
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+input, label {
+    display: block;
+}
